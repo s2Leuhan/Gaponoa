@@ -4,4 +4,5 @@ GAPONOA. Es la conjugación del acrónimo "Argentum Online not only pixel art ga
 
 # Recursos
 https://app.diagrams.net/
+
 https://github.com/codeSTACKr/create-10k-nft-collection
